@@ -1,0 +1,30 @@
+[07:25:48] [Server thread/INFO]: Starting minecraft server version 1.12
+[07:25:48] [Server thread/INFO]: Loading properties
+[07:25:49] [Server thread/INFO]: Default game type: SURVIVAL
+[07:25:49] [Server thread/INFO]: Generating keypair
+[07:25:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:25:49] [Server thread/INFO]: Using default channel type
+[07:25:49] [Server thread/INFO]: Preparing level "world"
+[07:25:49] [Server thread/INFO]: Loaded 488 advancements
+[07:25:49] [Server thread/INFO]: Preparing start region for level 0
+[07:25:50] [Server thread/INFO]: Preparing spawn area: 52%
+[07:25:51] [Server thread/INFO]: Done (1.949s)! For help, type "help" or "?"
+[07:26:57] [User Authenticator #1/INFO]: UUID of player KrYpToN_FiRe is eb2d71f6-0676-4d43-9437-f2ddb53ca360
+[07:26:57] [Server thread/INFO]: KrYpToN_FiRe[/127.0.0.1:54341] logged in with entity id 310 at (169.24698654656805, 92.0, 240.53169045964006)
+[07:26:57] [Server thread/INFO]: KrYpToN_FiRe joined the game
+[07:27:03] [Server thread/INFO]: [KrYpToN_FiRe: Set own game mode to Creative Mode]
+[07:27:07] [Server thread/INFO]: [KrYpToN_FiRe: Set the time to 1000]
+[07:27:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3498ms behind, skipping 69 tick(s)
+[07:27:40] [Server thread/INFO]: KrYpToN_FiRe fell out of the world
+[07:27:40] [Server thread/INFO]: [KrYpToN_FiRe: Killed KrYpToN_FiRe]
+[07:27:48] [Server thread/INFO]: KrYpToN_FiRe lost connection: Disconnected
+[07:27:48] [Server thread/INFO]: KrYpToN_FiRe left the game
+[07:28:02] [Server thread/INFO]: Stopping the server
+[07:28:02] [Server thread/INFO]: Stopping server
+[07:28:02] [Server thread/INFO]: Saving players
+[07:28:02] [Server thread/INFO]: Saving worlds
+[07:28:02] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[07:28:02] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[07:28:02] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[07:28:03] [Server Shutdown Thread/INFO]: Stopping server
+[07:28:03] [Server Shutdown Thread/INFO]: Saving players
